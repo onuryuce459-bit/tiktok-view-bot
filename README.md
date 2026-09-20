@@ -10,5 +10,9 @@ Full base open source with device register.
 No need accounts
 No need proxy
 
+# Video
+https://www.youtube.com/watch?v=xiOIt0Eb1vU
+
+
 Fully mobile api request with register device_id source
 Multi Thread Async Fast
